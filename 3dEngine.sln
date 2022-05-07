@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3dEngine", "3dEngine\3dEngine.vcxproj", "{4D2B8598-FF55-4D79-8B2F-8F8328008513}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "3DSetup", "3DSetup\3DSetup.vdproj", "{3B1AD518-E456-4790-A177-5826D7B7AC9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D2B8598-FF55-4D79-8B2F-8F8328008513}.Debug|x64.ActiveCfg = Debug|x64
+		{4D2B8598-FF55-4D79-8B2F-8F8328008513}.Debug|x64.Build.0 = Debug|x64
+		{4D2B8598-FF55-4D79-8B2F-8F8328008513}.Debug|x86.ActiveCfg = Debug|Win32
+		{4D2B8598-FF55-4D79-8B2F-8F8328008513}.Debug|x86.Build.0 = Debug|Win32
+		{4D2B8598-FF55-4D79-8B2F-8F8328008513}.Release|x64.ActiveCfg = Release|x64
+		{4D2B8598-FF55-4D79-8B2F-8F8328008513}.Release|x64.Build.0 = Release|x64
+		{4D2B8598-FF55-4D79-8B2F-8F8328008513}.Release|x86.ActiveCfg = Release|Win32
+		{4D2B8598-FF55-4D79-8B2F-8F8328008513}.Release|x86.Build.0 = Release|Win32
+		{3B1AD518-E456-4790-A177-5826D7B7AC9D}.Debug|x64.ActiveCfg = Debug
+		{3B1AD518-E456-4790-A177-5826D7B7AC9D}.Debug|x86.ActiveCfg = Debug
+		{3B1AD518-E456-4790-A177-5826D7B7AC9D}.Release|x64.ActiveCfg = Release
+		{3B1AD518-E456-4790-A177-5826D7B7AC9D}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEECDDB3-0792-40F5-875E-F12C7B3BB6E8}
+	EndGlobalSection
+EndGlobal
